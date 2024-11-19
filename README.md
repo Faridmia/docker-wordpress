@@ -70,4 +70,4 @@ volumes:
 ## 🥰 Follow me
 
 - [@Github](https://github.com/faridmia/)
-- [@Facebook](https://www.linkedin.com/in/farid-mia-b551a9149/)
+- [@Linkedin](https://www.linkedin.com/in/farid-mia-b551a9149/)
